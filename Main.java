@@ -27,5 +27,6 @@ public class Main {
         System.out.println(veterinaryClinic1.getGoable());
         System.out.println(veterinaryClinic1.getFlyable());
         veterinaryClinic1.toHeal(dog1, doctor, nurse);
+        //ДЗ к семинару 2 завершено...
     }
 }
